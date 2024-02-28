@@ -1,13 +1,25 @@
 <template>
-  <q-layout>
-    <q-page-container>
-      <q-page>
-        <q-form>
-          <q-input v-model="input"></q-input>
-        </q-form>
-      </q-page>
-    </q-page-container>
-  </q-layout>
+  <q-page>
+    <q-form>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+      <q-input v-model="input"></q-input>
+    </q-form>
+  </q-page>
 </template>
 
 <script setup lang="ts">
