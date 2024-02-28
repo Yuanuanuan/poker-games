@@ -1,0 +1,7 @@
+[build]
+  base = "client/"
+  publish = "dist/spa/"
+  functions = "functions/"
+
+[build.environment]
+  NODE_VERSION = "20"  # 適用於你的專案的 Node.js 版本
