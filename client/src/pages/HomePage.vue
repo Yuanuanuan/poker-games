@@ -1,29 +1,11 @@
 <template>
   <q-page>
-    <q-form>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-      <q-input v-model="input"></q-input>
-    </q-form>
+    <BaseModelCard class="bg-red-7" />
+    <BaseModelCard class="bg-blue-6" />
+    <BaseModelCard class="bg-yellow-5" />
   </q-page>
 </template>
 
 <script setup lang="ts">
-import { ref } from "vue";
-
-const input = ref("");
+import BaseModelCard from "../components/ui/BaseModelCard.vue";
 </script>

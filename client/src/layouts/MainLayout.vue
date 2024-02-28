@@ -1,57 +1,6 @@
 <template>
   <q-layout view="lHh Lpr lFf">
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <q-input v-model="input"></q-input>
-    <!-- <q-header elevated class="bg-black">
+    <q-header elevated class="bg-black">
       <q-toolbar>
         <q-toolbar-title> Poker Game </q-toolbar-title>
 
@@ -67,7 +16,7 @@
 
     <q-page-container>
       <router-view />
-    </q-page-container> -->
+    </q-page-container>
   </q-layout>
 </template>
 
